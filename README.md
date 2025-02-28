@@ -5,6 +5,7 @@ Make sure you are have Java and JavaFX SDK installed somewhere locally on your s
 * [Java](https://www.oracle.com/java/technologies/downloads/)
 * [JavaFX](https://gluonhq.com/products/javafx/)
 
+![](demo.gif)
 Run it using:
 ```
 java -jar --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml convert-unit-temps.jar
